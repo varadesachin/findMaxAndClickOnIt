@@ -1,4 +1,4 @@
-Project: Find Most Expensive Mechanical Keyboard on Flipkart on first page.
+Project: Find Most Expensive Mechanical Keyboard on Flipkart's on first page.
 
 This code utilizes Selenium WebDriver to search for mechanical keyboards on Flipkart (first page only) and 
 click on the keyboard with the highest price.
